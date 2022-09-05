@@ -1,9 +1,7 @@
 # Cypress_iFrame_Handling_w3Demo
 
-- Steps to open this : 
+-Run these commands inside the project folder (You can use either the IDE-provided console or the command prompt)
+##"npm install cypress"
+##"npx run cypress"
 
-1. **Clone this Repo**
-2. **"npm install cypress"**
-3. **"npx run cypress"**
-
- - You can remove comment from either scenarios while the other is still is commented and experience the differences in those 2 scenarios.he differences in those 2 scenarios.
+-After opening the Cypress Console you can run the test with it. You can remove comments from either scenario while the other is still commented on and experience the differences in those 2 scenarios.
