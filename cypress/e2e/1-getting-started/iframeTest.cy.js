@@ -14,7 +14,7 @@ describe('The iframe test', () => {
   // //Scenario 02
   // it('The iFrame h1 should be visble', () => {
   //   cy.xpath('//iframe[@id="iframeResult"]').its('0.contentDocument.body').then(cy.wrap).xpath('//h1[text()="The iframe element"]').should('be.visible');
-  //   /*In here we are accessing the document boady throught jQuey and wrapping the result of that (the body of iframe itselt) 
+  //   /*In here we are accessing the document body through the jQuey and wrapping the result of that (the body of iframe itselt) 
   //   inside the 'cy' element so that we can access it through that. */
   // })
 
