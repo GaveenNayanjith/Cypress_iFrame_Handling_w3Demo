@@ -5,4 +5,4 @@
    IDE-provided console or the command prompt)
 	 - "npm install cypress" 
 	 - "npx run cypress"
- - After opening the Cypress Console you can run the test with it. Please use Component Testing from the test Launchpad.
+ - After opening the Cypress Console you can run the test with it. You can remove comments from either scenario while the other is still commented on and experience the differences in those 2 scenarios.
